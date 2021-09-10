@@ -1,0 +1,14 @@
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.Form1.resources
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.Properties.Resources.resources
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.csproj.GenerateResource.Cache
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\DataSync.exe.config
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\DataSync.exe
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\DataSync.pdb
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\FluentFTP.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\log4net.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\FluentFTP.xml
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\log4net.xml
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.exe
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.pdb
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\log4net.config
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.csprojResolveAssemblyReference.cache

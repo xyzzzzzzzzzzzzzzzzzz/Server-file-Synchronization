@@ -1,0 +1,11 @@
+D:\自己\Axxproject\FTP\DataSync\ftptest\bin\Debug\ftptest.exe.config
+D:\自己\Axxproject\FTP\DataSync\ftptest\bin\Debug\ftptest.exe
+D:\自己\Axxproject\FTP\DataSync\ftptest\bin\Debug\ftptest.pdb
+D:\自己\Axxproject\FTP\DataSync\ftptest\bin\Debug\FluentFTP.dll
+D:\自己\Axxproject\FTP\DataSync\ftptest\bin\Debug\FluentFTP.xml
+D:\自己\Axxproject\FTP\DataSync\ftptest\obj\Debug\ftptest.csprojResolveAssemblyReference.cache
+D:\自己\Axxproject\FTP\DataSync\ftptest\obj\Debug\ftptest.Form1.resources
+D:\自己\Axxproject\FTP\DataSync\ftptest\obj\Debug\ftptest.Properties.Resources.resources
+D:\自己\Axxproject\FTP\DataSync\ftptest\obj\Debug\ftptest.csproj.GenerateResource.Cache
+D:\自己\Axxproject\FTP\DataSync\ftptest\obj\Debug\ftptest.exe
+D:\自己\Axxproject\FTP\DataSync\ftptest\obj\Debug\ftptest.pdb

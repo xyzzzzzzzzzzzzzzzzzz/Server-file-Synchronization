@@ -1,0 +1,16 @@
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\DataSync.exe.config
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\log4net.config
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\DataSync.exe
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\DataSync.pdb
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\Common.Logging.Core.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\Common.Logging.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\FluentFTP.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\log4net.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\Quartz.dll
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\FluentFTP.xml
+D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Release\log4net.xml
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.Form1.resources
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.Properties.Resources.resources
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.csproj.GenerateResource.Cache
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.exe
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.pdb

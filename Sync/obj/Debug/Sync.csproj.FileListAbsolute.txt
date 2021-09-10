@@ -1,0 +1,10 @@
+D:\自己\Axxproject\FTP\DataSync\Sync\bin\Debug\Sync.exe.config
+D:\自己\Axxproject\FTP\DataSync\Sync\bin\Debug\Sync.exe
+D:\自己\Axxproject\FTP\DataSync\Sync\bin\Debug\Sync.pdb
+D:\自己\Axxproject\FTP\DataSync\Sync\bin\Debug\FluentFTP.dll
+D:\自己\Axxproject\FTP\DataSync\Sync\bin\Debug\FluentFTP.xml
+D:\自己\Axxproject\FTP\DataSync\Sync\obj\Debug\Sync.ProjectInstaller.resources
+D:\自己\Axxproject\FTP\DataSync\Sync\obj\Debug\Sync.Service1.resources
+D:\自己\Axxproject\FTP\DataSync\Sync\obj\Debug\Sync.csproj.GenerateResource.Cache
+D:\自己\Axxproject\FTP\DataSync\Sync\obj\Debug\Sync.exe
+D:\自己\Axxproject\FTP\DataSync\Sync\obj\Debug\Sync.pdb
