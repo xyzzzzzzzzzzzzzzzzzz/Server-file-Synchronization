@@ -131,8 +131,16 @@ namespace Sync
                    }
                    else
                    {
+                       string deletelog = "";
+                       if (StaticClass.autodelete == "true")
+                       {
+                           client.DeleteFile(item.FullName);
+                           deletelog = "ColudeIsDelete";
+                       }
                        //存在
-                       sw.WriteLine("[Exist]" + item.Name + "Size:" + item.Size + "      RawModified:" + item.RawModified);
+                       sw.WriteLine("[Exist]" + "[" + deletelog + "]--" + item.Name + "Size:" + item.Size + "      RawModified:" + item.RawModified);
+                       ////存在
+                       //sw.WriteLine("[Exist]" + item.Name + "Size:" + item.Size + "      RawModified:" + item.RawModified);
                    }
                }
            }
@@ -173,8 +181,10 @@ namespace Sync
                    lsPath = Dirlpath;
                    if (Directory.Exists(Dirlpath))
                    {
+
+                     
                        //存在
-                       sw.WriteLine("[Exist]" + d.Name + "Size:" + d.Size + "      RawModified:" + d.RawModified);
+                       sw.WriteLine("[Exist]"+d.Name + "Size:" + d.Size + "      RawModified:" + d.RawModified);
                    }
                    else
                    {
@@ -189,7 +199,7 @@ namespace Sync
                }
            }
        }
-
+      
        /// <summary>
        /// FTP服务器文件下载到本地
        /// </summary>

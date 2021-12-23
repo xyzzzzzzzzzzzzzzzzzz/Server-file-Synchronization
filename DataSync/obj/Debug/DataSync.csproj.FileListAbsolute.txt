@@ -11,4 +11,6 @@ D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\log4net.xml
 D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.exe
 D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.pdb
 D:\自己\Axxproject\FTP\DataSync\DataSync\bin\Debug\log4net.config
-D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.csprojResolveAssemblyReference.cache
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.csprojAssemblyReference.cache
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.csproj.CoreCompileInputs.cache
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Debug\DataSync.csproj.CopyComplete

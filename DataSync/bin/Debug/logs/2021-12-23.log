@@ -1,0 +1,36 @@
+
+时间：2021-12-23 15:25:58  等级：INFO  
+类名：LogHelper - 43 
+调试：保存配置参数！ 
+
+时间：2021-12-23 15:26:01  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：User cannot log in. 
+
+时间：2021-12-23 15:26:33  等级：INFO  
+类名：LogHelper - 43 
+调试：保存配置参数！ 
+
+时间：2021-12-23 15:26:35  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：The system cannot find the file specified.  
+
+时间：2021-12-23 15:27:05  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：The system cannot find the file specified.  
+
+时间：2021-12-23 15:27:29  等级：INFO  
+类名：LogHelper - 43 
+调试：保存配置参数！ 
+
+时间：2021-12-23 15:54:04  等级：INFO  
+类名：LogHelper - 43 
+调试：手动备份成功！ 
+
+时间：2021-12-23 16:03:20  等级：INFO  
+类名：LogHelper - 43 
+调试：启动定时同步 
+
+时间：2021-12-23 16:04:00  等级：DEBUG 
+类名：Sync.CreateCheckTaskJob - 38 
+调试：自动备份 

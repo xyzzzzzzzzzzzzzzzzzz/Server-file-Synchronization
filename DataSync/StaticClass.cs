@@ -26,6 +26,28 @@ namespace DataSync
        public static string prot ;
 
        public static string Cron;
+       public static string Cron1;
+       public static string ip1;
+
+       public static string user1;
+       public static string password1;
+       public static string prot1;
+
+       public static string autodelete;
+
+       public static string startingup;
+
+
+       /// <summary>
+       /// 本地备份文件夹
+       /// </summary>
+       public static string localbkpath = "";
+
+       /// <summary>
+       /// 云端备份存储文件夹
+       /// </summary>
+       public static string cloudbkpath = "/";
+
         /// <summary>
         /// 写入配置
         /// </summary>

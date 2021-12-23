@@ -1,0 +1,28 @@
+
+时间：2021-12-06 13:24:14  等级：INFO  
+类名：LogHelper - 43 
+调试：启动定时备份 
+
+时间：2021-12-06 13:24:17  等级：INFO  
+类名：LogHelper - 43 
+调试：停止定时备份 
+
+时间：2021-12-06 13:24:18  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：User cannot log in. 
+
+时间：2021-12-06 13:24:22  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：User cannot log in. 
+
+时间：2021-12-06 13:24:39  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：User cannot log in. 
+
+时间：2021-12-06 13:33:12  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：User cannot log in. 
+
+时间：2021-12-06 13:58:43  等级：ERROR 
+类名：DataSync.Form1 - 33 
+调试：User cannot log in. 

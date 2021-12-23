@@ -1,0 +1,43 @@
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\shdata   时间：2021/12/23 15:27:32
+    [Created]DecodeSize:0      RawModified:2021/12/19 0:00:00
+文件夹：Decode
+        [Created]Decode2021-12-06 13.17.05.bakSize:6475264      RawModified:2021/12/6 13:18:00
+        [Created]Decode2021-12-12 00.00.00.bakSize:3303936      RawModified:2021/12/12 0:00:00
+        [Created]Decode2021-12-19 00.00.00.bakSize:3303936      RawModified:2021/12/19 0:00:00
+        [Created]Decode_backup_202109231344.bakSize:9241088      RawModified:2021/11/15 8:47:00
+
+    [Created]HEIKESize:0      RawModified:2021/9/23 13:45:00
+文件夹：HEIKE
+        [Created]HEIKE_backup_202109231344.bakSize:56898048      RawModified:2021/11/15 8:48:00
+
+    [Created]RDDBSize:0      RawModified:2021/12/19 0:00:00
+文件夹：RDDB
+        [Created]RDDB-2021-12-06 13.14.12.bakSize:225532416      RawModified:2021/12/6 13:14:00
+        [Created]RDDB-2021-12-12 00.00.00.bakSize:225532416      RawModified:2021/12/12 0:00:00
+        [Exist][ColudeIsDelete]--RDDB-2021-12-19 00.00.00.bakSize:225532416      RawModified:2021/12/19 0:00:00
+
+    [Created]SHSize:0      RawModified:2021/9/23 13:45:00
+文件夹：SH
+        [Created]SH_backup_202109231344.bakSize:30134784      RawModified:2021/11/15 8:47:00
+
+    [Created]SHENGTAISize:0      RawModified:2021/9/23 13:45:00
+文件夹：SHENGTAI
+        [Created]SHENGTAI_backup_202109231344.bakSize:11462144      RawModified:2021/9/23 13:46:00
+
+    [Created]SHMESSize:0      RawModified:2021/9/23 13:45:00
+文件夹：SHMES
+        [Created]SHMES_backup_202109231344.bakSize:25431552      RawModified:2021/11/15 8:47:00
+
+    [Created]XDataSize:0      RawModified:2021/9/23 13:45:00
+文件夹：XData
+        [Created]XData_backup_202109231344.bakSize:19203584      RawModified:2021/9/23 13:46:00
+
+    [Created]XLdataSize:0      RawModified:2021/9/23 13:45:00
+文件夹：XLdata
+        [Created]XLdata_backup_202109231344.bakSize:23889408      RawModified:2021/9/23 13:46:00
+
+    [Created]XyantaiSize:0      RawModified:2021/9/23 13:45:00
+文件夹：Xyantai
+        [Created]Xyantai_backup_202109231344.bakSize:23264768      RawModified:2021/9/23 13:46:00
+

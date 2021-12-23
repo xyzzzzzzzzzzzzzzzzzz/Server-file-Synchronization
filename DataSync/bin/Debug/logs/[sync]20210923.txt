@@ -1,0 +1,148 @@
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\hp   时间：2021/9/23 14:02:16
+    [Created]2222.txtSize:34      RawModified:2021/9/9 15:13:00
+    [Created]kuaiyu.txtSize:133      RawModified:2021/7/26 8:29:00
+    [Created]新建文本文档.txtSize:11      RawModified:2021/9/9 13:55:00
+    [Created]100Size:0      RawModified:2021/9/9 9:54:00
+文件夹：100
+        [Created]2021.9.5Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.5
+            [Created]1.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Created]2021.9.6Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.6
+            [Created]2.txtSize:2      RawModified:2021/9/9 13:55:00
+
+
+    [Created]1001Size:0      RawModified:2021/9/9 9:55:00
+文件夹：1001
+        [Created]2021.9.7Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.7
+            [Created]3.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Created]2021.9.8Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.8
+            [Created]4.txtSize:2      RawModified:2021/9/9 13:43:00
+
+
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\hp   时间：2021/9/23 14:02:31
+    [Exist]2222.txtSize:34      RawModified:2021/9/9 15:13:00
+    [Exist]kuaiyu.txtSize:133      RawModified:2021/7/26 8:29:00
+    [Exist]新建文本文档.txtSize:11      RawModified:2021/9/9 13:55:00
+    [Exist]100Size:0      RawModified:2021/9/9 9:54:00
+文件夹：100
+        [Exist]2021.9.5Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.5
+            [Exist]1.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Exist]2021.9.6Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.6
+            [Exist]2.txtSize:2      RawModified:2021/9/9 13:55:00
+
+
+    [Exist]1001Size:0      RawModified:2021/9/9 9:55:00
+文件夹：1001
+        [Exist]2021.9.7Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.7
+            [Exist]3.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Exist]2021.9.8Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.8
+            [Exist]4.txtSize:2      RawModified:2021/9/9 13:43:00
+
+
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\hp   时间：2021/9/23 14:02:42
+    [Exist]2222.txtSize:34      RawModified:2021/9/9 15:13:00
+    [Exist]kuaiyu.txtSize:133      RawModified:2021/7/26 8:29:00
+    [Exist]新建文本文档.txtSize:11      RawModified:2021/9/9 13:55:00
+    [Exist]100Size:0      RawModified:2021/9/9 9:54:00
+文件夹：100
+        [Exist]2021.9.5Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.5
+            [Exist]1.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Exist]2021.9.6Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.6
+            [Exist]2.txtSize:2      RawModified:2021/9/9 13:55:00
+
+
+    [Exist]1001Size:0      RawModified:2021/9/9 9:55:00
+文件夹：1001
+        [Exist]2021.9.7Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.7
+            [Exist]3.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Exist]2021.9.8Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.8
+            [Exist]4.txtSize:2      RawModified:2021/9/9 13:43:00
+
+
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\hp   时间：2021/9/23 14:02:49
+    [Created]2222.txtSize:34      RawModified:2021/9/9 15:13:00
+    [Created]kuaiyu.txtSize:133      RawModified:2021/7/26 8:29:00
+    [Created]新建文本文档.txtSize:11      RawModified:2021/9/9 13:55:00
+    [Created]100Size:0      RawModified:2021/9/9 9:54:00
+文件夹：100
+        [Created]2021.9.5Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.5
+            [Created]1.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Created]2021.9.6Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.6
+            [Created]2.txtSize:2      RawModified:2021/9/9 13:55:00
+
+
+    [Created]1001Size:0      RawModified:2021/9/9 9:55:00
+文件夹：1001
+        [Created]2021.9.7Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.7
+            [Created]3.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Created]2021.9.8Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.8
+            [Created]4.txtSize:2      RawModified:2021/9/9 13:43:00
+
+
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\hp   时间：2021/9/23 14:02:59
+    [Exist]2222.txtSize:34      RawModified:2021/9/9 15:13:00
+    [Exist]kuaiyu.txtSize:133      RawModified:2021/7/26 8:29:00
+    [Exist]新建文本文档.txtSize:11      RawModified:2021/9/9 13:55:00
+    [Exist]100Size:0      RawModified:2021/9/9 9:54:00
+文件夹：100
+        [Exist]2021.9.5Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.5
+            [Exist]1.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Exist]2021.9.6Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.6
+            [Exist]2.txtSize:2      RawModified:2021/9/9 13:55:00
+
+
+    [Exist]1001Size:0      RawModified:2021/9/9 9:55:00
+文件夹：1001
+        [Exist]2021.9.7Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.7
+            [Exist]3.txtSize:2      RawModified:2021/9/9 13:43:00
+
+        [Exist]2021.9.8Size:0      RawModified:2021/9/9 9:55:00
+文件夹：2021.9.8
+            [Exist]4.txtSize:2      RawModified:2021/9/9 13:43:00
+
+
+--------------------------------手动备份成功--------------------------------------------
+根目录：F:\hp   时间：2021/9/23 14:03:17
+    [Created]DecodeSize:0      RawModified:2021/9/23 13:45:00
+文件夹：Decode
+        [Created]Decode_backup_202109231344.bakSize:6071808      RawModified:2021/9/23 13:46:00
+
+    [Created]HEIKESize:0      RawModified:2021/9/23 13:45:00
+文件夹：HEIKE
+        [Created]HEIKE_backup_202109231344.bakSize:37932544      RawModified:2021/9/23 13:46:00
+
+    [Created]RDDBSize:0      RawModified:2021/9/23 13:45:00
+文件夹：RDDB
+        

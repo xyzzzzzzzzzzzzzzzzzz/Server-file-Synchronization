@@ -14,3 +14,4 @@ D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.Properties.Resou
 D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.csproj.GenerateResource.Cache
 D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.exe
 D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.pdb
+D:\自己\Axxproject\FTP\DataSync\DataSync\obj\Release\DataSync.csprojResolveAssemblyReference.cache
