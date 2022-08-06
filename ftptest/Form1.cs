@@ -53,7 +53,7 @@ namespace ftptest
         public FtpClient Connect()
         {
 
-            FtpClient client = new FtpClient("47.105.53.70");
+            FtpClient client = new FtpClient("127.0.0.1");
             client.DataConnectionType = FtpDataConnectionType.PORT;
             client.Encoding = System.Text.Encoding.Default;
             client.DownloadDataType = FtpDataType.Binary;//二进制文件下载才能获取文件大小
@@ -62,7 +62,7 @@ namespace ftptest
             // begin connecting to the server
             client.RetryAttempts = 3;//重试次数
             // specify the login credentials, unless you want to use the "anonymous" user account   ftpuser1"xyz1229-"
-            client.Credentials = new NetworkCredential("ftpuser1","xyz1229-");
+            client.Credentials = new NetworkCredential("123","123");
 
             // begin connecting to the server
             client.Connect();
